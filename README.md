@@ -56,6 +56,10 @@ Here are preview images of some of the Traditional Receptor color options:
 ![Receptor Cel Trad](https://github.com/user-attachments/assets/a594bc5d-3eb5-45c3-8f90-3d1d0a9d535a)
 ![Receptor Metal Trad](https://github.com/user-attachments/assets/7c80fe7f-44a8-43d0-a44b-9be3d1551f2a)
 
+----------------------------------------------------------------------------------------------------------------
+
+Customization Instructions:
+
 
 
 
