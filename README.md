@@ -24,3 +24,10 @@ Hold explosions can be color customized to many different color options and also
 Here is a preview image of some of the hold explosion options:
 
 ![Hold Explosions](https://github.com/user-attachments/assets/b2949529-0770-4f93-b2fb-e173fad968a7)
+
+-----------------------------------Holds and Rolls-----------------------------------
+
+Holds and rolls (active and inactive) can be color customized. Every color option has a standard and shadow version. Feel free to mix and match different options! By default the noteskin uses the "default" color options for both holds and rolls. 
+Here is a preview image of some of the hold and roll options
+
+![Holds+Rolls](https://github.com/user-attachments/assets/f98d1c79-8090-4c03-a4e2-d22e0f9116fe)
