@@ -1,4 +1,3 @@
-# Noteskin-Workshop-Cel
 (Scroll down to the bottom for Customization Instructions!)
 
 Welcome to the noteskin workshgop for Cel and Metal! This is a fully customizable "build your own" noteskin suite based on the default ITG noteskins "Cel" and "Metal". Just about every aspect of the noteskin can be customized. All customization options have preview images that can be browsed in the "previews" folder. Please note that preview images are almost entirely presented at a lower resolution and /or are compressed to reduce file size.
