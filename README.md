@@ -28,6 +28,13 @@ Here is a preview image of some of the hold explosion options:
 -----------------------------------Holds and Rolls-----------------------------------
 
 Holds and rolls (active and inactive) can be color customized. Every color option has a standard and shadow version. Feel free to mix and match different options! By default the noteskin uses the "default" color options for both holds and rolls. 
-Here is a preview image of some of the hold and roll options
+Here is a preview image of some of the hold and roll options:
 
 ![Holds+Rolls](https://github.com/user-attachments/assets/f98d1c79-8090-4c03-a4e2-d22e0f9116fe)
+
+-----------------------------------Mines-----------------------------------
+
+Mines can be color customized, and for every color option there is a regular, inverted and vibrant option. By default the skin uses the "Default" color option.
+Here is a preview image of some of the mine color options:
+
+![Mines](https://github.com/user-attachments/assets/12235b04-bd7f-4a51-b85b-9d6508fb4982)
