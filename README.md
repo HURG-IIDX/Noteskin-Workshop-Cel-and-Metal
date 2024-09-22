@@ -62,7 +62,9 @@ Customization Instructions:
 
 First extract the "Cel - Workshop" and/or the "Metal - Workshop" folder and place it in your Stepmania install in your noteskins>dance folder. This is the noteskin you will be using as a base for customization. Feel free to rename it as this will be something you can make your own!
 
-In the "Customizations" folder you will find the files needed to change different aspects of the noteskin. Each aspect has numerous color options. Within each color folder you will find the .PNG files needed to change the color of the noteskin aspect. Place those in your Cel or Metal workshop (or whatever you renamed it to if you did) folder and replace the existing .PNG files.
+It is highly recommended you check the "previews" folder and check to see what color options you want, they are in an easily browsable and viewable format.
+
+In the "Customizations" folder you will find the files/assets needed to change different aspects of the noteskin. Each aspect has numerous color options. Within each color folder you will find the .PNG files needed to change the color of the noteskin aspect. Place those in your Cel or Metal workshop (or whatever you renamed it to if you did) folder and replace the existing .PNG files.
 
 NOTE: For arrow customizations, if you are using any of the "RGB" or DDR Vivid" Variations, it is recommended you open the metrics.ini and change the TapNoteAnimationLength=2 to TapNoteAnimationLength=4. The colors may appear to cycle too quickly if left at 2, but you can leave it at 2 if you prefer.
 
