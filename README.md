@@ -62,7 +62,7 @@ Customization Instructions:
 
 First extract the "Cel - Workshop" and/or the "Metal - Workshop" folder and place it in your Stepmania install in your noteskins>dance folder. This is the noteskin you will be using as a base for customization. Feel free to rename it as this will be something you can make your own!
 
-It is highly recommended you check the "previews" folder and check to see what color options you want, they are in an easily browsable and viewable format.
+It is highly recommended you check the "previews" folder and check to see what color options you want, they are in an easily browsable and viewable format. For arrows specifically, I also recommend checking out the "Color Swatches" folder to determine the arrow color scheme you prefer before picking which variation you want.
 
 In the "Customizations" folder you will find the files/assets needed to change different aspects of the noteskin. Each aspect has numerous color options. Within each color folder you will find the .PNG files needed to change the color of the noteskin aspect. Place those in your Cel or Metal workshop (or whatever you renamed it to if you did) folder and replace the existing .PNG files.
 
