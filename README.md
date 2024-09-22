@@ -12,3 +12,10 @@ This noteskin also supports lifts. There is a "Chrome" and "Spectrum" version of
 Here is a preview of the lift animations:
 
 ![Lifts](https://github.com/user-attachments/assets/04ace0e4-159c-4b50-bd9a-866742187bd4)
+
+-----------------------------------Explosions-----------------------------------
+
+Tap explosions can be customized to different match different judgement color sets. By default it comes with the "ITG" Spark color set, but there are options for things like Rainbowmatic and Waterfall and a few others. There is also an "all white" option if you prefer your tap explosions to be color neutral. Tap explosions come in 3 variants per color set: Spark (X shaped like a traditional DDR tap explosion), Glow (more like the ITG Cel/Metal noteskin tap explosions) and Minimal (similar to glow but with a smaller area).
+Here is a preview of the tap explosion options
+
+![Tap Explosions](https://github.com/user-attachments/assets/0ba469c7-4f04-4a07-8823-0c8439cb50e9)
