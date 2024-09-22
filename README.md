@@ -38,3 +38,24 @@ Mines can be color customized, and for every color option there is a regular, in
 Here is a preview image of some of the mine color options:
 
 ![Mines](https://github.com/user-attachments/assets/12235b04-bd7f-4a51-b85b-9d6508fb4982)
+
+Mines also can be adjusted to 2 different sizes
+
+![Mine Size Comparison](https://github.com/user-attachments/assets/aa8485b2-1cdc-405b-807b-6e5e945b2a72)
+
+-----------------------------------Receptors-----------------------------------
+
+Receptors can be color customized and there are two types (Frame and Traditional) for both Cel and Metal, and each one has numerous color options
+Here are preview images of some of the Frame Receptor color options:
+
+![Receptor Cel Frame](https://github.com/user-attachments/assets/51aceea4-7fca-412f-98b4-6aafe7f0fd33)
+![Receptor Metal Frame](https://github.com/user-attachments/assets/43518429-dc66-47dc-995e-a4d09d05e241)
+
+Here are preview images of some of the Traditional Receptor color options:
+
+![Receptor Cel Trad](https://github.com/user-attachments/assets/a594bc5d-3eb5-45c3-8f90-3d1d0a9d535a)
+![Receptor Metal Trad](https://github.com/user-attachments/assets/7c80fe7f-44a8-43d0-a44b-9be3d1551f2a)
+
+
+
+
