@@ -4,6 +4,8 @@ Welcome to the noteskin workshgop for Cel and Metal! This is a fully customizabl
 
 This noteskin was made primarily for ITGMania, but it should work with other versions of modern Stepmania.
 
+For this noteskin to look its best, please set your texture resolution to the highest setting (2048). Some textures use this resolution and will look degraded on lower settings.
+
 Customization options:
 
 -----------------------------------Arrows-----------------------------------
