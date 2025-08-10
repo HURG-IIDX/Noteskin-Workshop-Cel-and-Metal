@@ -19,7 +19,7 @@ Here is a preview of some of the lift animations:
 
 -----------------------------------Explosions-----------------------------------
 
-Tap explosions can be customized to different match different judgement color sets. By default it comes with the "ITG" Spark color set, but there are options for things like Rainbowmatic and Waterfall and a few others. There is also an "all white" option if you prefer your tap explosions to be color neutral. Tap explosions come in 3 variants per color set: Spark (X shaped like a DDR tap explosion), Glow (similar to the default ITG Cel/Metal noteskin tap explosions) and Minimal (similar to glow but with a smaller area). There are Cel and MEtal versions of every set. By default the skins come with the ITG Glow tap explosions. You can also disable tap explosions entirely with the "no explosions" customization option.
+Tap explosions can be customized to different match different judgement color sets. By default it comes with the "ITG" Glow color set, but there are options for things like Rainbowmatic and Waterfall and a few others. There is also an "all white" option if you prefer your tap explosions to be color neutral. Tap explosions come in 3 variants per color set: Spark (X shaped like a DDR tap explosion), Glow (similar to the default ITG Cel/Metal noteskin tap explosions) and Minimal (similar to glow but with a smaller area). There are Cel and MEtal versions of every set. By default the skins come with the ITG Glow tap explosions. You can also disable tap explosions entirely with the "no explosions" customization option.
 Here is a preview of some of the tap explosion options:
 
 ![Tap Explosions](https://github.com/user-attachments/assets/0ba469c7-4f04-4a07-8823-0c8439cb50e9)
